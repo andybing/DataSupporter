@@ -1,0 +1,11 @@
+
+# ignore idea project file
+*.ipr
+*.iml
+*.log
+*.class
+*.idea
+
+node_modules
+
+target/*
