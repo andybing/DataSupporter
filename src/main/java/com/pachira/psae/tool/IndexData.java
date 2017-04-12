@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * 索引数据类
  *
- * @author zhaoxt
+ * @author andy
  * @version 1.0.0
  * @date 2016-01-22
  */

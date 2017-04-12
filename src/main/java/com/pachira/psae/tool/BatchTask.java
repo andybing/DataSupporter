@@ -5,7 +5,7 @@ import java.io.Serializable;
 /**
  * 批次任务类
  *
- * @author zhaoxt
+ * @author andy
  * @version 1.0.0
  * @date 2016-01-20
  */
